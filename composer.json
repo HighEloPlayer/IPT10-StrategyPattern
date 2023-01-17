@@ -1,0 +1,16 @@
+{
+    "name": "ryzen/strategypattern",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "HighEloPlayer",
+            "email": "nfcobra20@gmail.com"
+        }
+    ],
+    "require": {}
+}
+
